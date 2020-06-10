@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Honey Im Home</string>
+    <string name="startTracking">Start tracking location</string>
+    <string name="latitude">Curr latitude: </string>
+    <string name="longitude">Curr longitude: </string>
+    <string name="accuracy">Curr accuracy: </string>
+    <string name="setHome">Set Home</string>
+    <string name="homeLocation">Your Home Location is: </string>
+    <string name="clearHome">Clear Home Location</string>
+</resources>
